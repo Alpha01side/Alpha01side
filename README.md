@@ -21,7 +21,7 @@ I am not a software developer and I do not present myself as one here. What I pu
 
 ## Repositories
 
-- **[woocommerce-seo-optimization](https://github.com/Alpha01side/woocommerce-seo-optimization)** — checklists, guides, templates and structured data notes for WooCommerce and WordPress stores.
+- **[ecommerce-seo-playbook](https://github.com/Alpha01side/ecommerce-seo-playbook)** — guides, checklists, templates and worked examples for WooCommerce, WordPress and print-on-demand store SEO, including technical indexation and faceted navigation.
 
 More will follow when I have material that is tested enough to be worth publishing. I would rather have three useful repositories than twenty empty ones.
 
